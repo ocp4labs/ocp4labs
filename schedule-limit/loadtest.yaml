@@ -56,7 +56,6 @@ items:
       app: loadtest
     name: loadtest
   spec:
-    host: "loadtest.apps.ocp4.example.com"
     port:
       targetPort: 8080
     subdomain: ""

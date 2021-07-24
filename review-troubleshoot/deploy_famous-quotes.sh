@@ -21,4 +21,4 @@ fi
 
 echo "Deploying famous-quotes application"
 
-oc apply -f /home/student/DO280/labs/${PROJECT}/famous-quotes.yaml
+oc apply -f ocp4labs/${PROJECT}/famous-quotes.yaml
